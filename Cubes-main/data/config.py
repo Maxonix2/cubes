@@ -1,0 +1,4 @@
+WORKDIR = "sessions/"
+API_IDS = [27138176]
+API_HASHES = ['38c2c5db1d82cb841a4c43e218cac962']
+USE_PROXY = True
